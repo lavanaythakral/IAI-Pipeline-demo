@@ -1,2 +1,2 @@
 # IAI-Pipeline-demo
-First draft of the complete IAI pipeline
+Final_demo is the latest google colab. You can run a demo web application of project from there. This work has been done as a part of my undergraduate thesis. 
